@@ -1,0 +1,7 @@
+D:\using visual studio\ThePigGame\ThePigGameAppSingle\ThePigGame.pdb
+D:\using visual studio\ThePigGame\ThePigGameAppSingle\D3DCompiler_47_cor3.dll
+D:\using visual studio\ThePigGame\ThePigGameAppSingle\PenImc_cor3.dll
+D:\using visual studio\ThePigGame\ThePigGameAppSingle\PresentationNative_cor3.dll
+D:\using visual studio\ThePigGame\ThePigGameAppSingle\vcruntime140_cor3.dll
+D:\using visual studio\ThePigGame\ThePigGameAppSingle\wpfgfx_cor3.dll
+D:\using visual studio\ThePigGame\ThePigGameAppSingle\ThePigGame.exe
